@@ -1,0 +1,14 @@
+C:\Users\samet\source\repos\Calculator\Calculator\bin\Release\Calculator.exe.config
+C:\Users\samet\source\repos\Calculator\Calculator\bin\Release\Calculator.exe
+C:\Users\samet\source\repos\Calculator\Calculator\bin\Release\Calculator.pdb
+C:\Users\samet\source\repos\Calculator\Calculator\obj\Release\Calculator.csproj.AssemblyReference.cache
+C:\Users\samet\source\repos\Calculator\Calculator\obj\Release\Calculator.Form1.resources
+C:\Users\samet\source\repos\Calculator\Calculator\obj\Release\Calculator.Properties.Resources.resources
+C:\Users\samet\source\repos\Calculator\Calculator\obj\Release\Calculator.csproj.GenerateResource.cache
+C:\Users\samet\source\repos\Calculator\Calculator\obj\Release\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\samet\source\repos\Calculator\Calculator\obj\Release\Calculator.exe
+C:\Users\samet\source\repos\Calculator\Calculator\obj\Release\Calculator.pdb
+C:\Users\samet\source\repos\Calculator\Calculator\bin\Release\Calculator.exe.manifest
+C:\Users\samet\source\repos\Calculator\Calculator\bin\Release\Calculator.application
+C:\Users\samet\source\repos\Calculator\Calculator\obj\Release\Calculator.exe.manifest
+C:\Users\samet\source\repos\Calculator\Calculator\obj\Release\Calculator.application
