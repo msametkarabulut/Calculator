@@ -14,8 +14,11 @@ Aşağıdaki adımları takip ederek projeyi çalıştırabilirsiniz:
 git clone https://github.com/msametkarabulut/Calculator.git
 cd Calculator
 ```
-
-Eğer proje bir web uygulaması ise tarayıcınızda açabilirsiniz.
+### Visual Studio ile Çalıştırma
+1. Visual Studio'yu açın.
+2. `Calculator` klasörünü açın.
+3. Çözüm Gezgini'nde `Calculator.sln` dosyasını açın.
+4. `F5` tuşuna basarak projeyi çalıştırın.
 
 ## 📸 Ekran Görüntüsü
 ![Uygulama Görseli](https://sametkarabulut.com/wp-content/uploads/2025/02/calculator.png)
