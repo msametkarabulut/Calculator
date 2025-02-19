@@ -4,7 +4,7 @@ Bu proje, basit dört işlemi yapabilen bir hesap makinesi uygulamasıdır. Kull
 
 ## 📥 İndirme
 
-[![📥 Hesap Makinesi'ni İndir](https://img.shields.io/badge/📥%20İndir-Hesap%20Makinesi.exe-blue)](https://sametkarabulut.com/Uygulamalar/calculator.exe)
+[![📥 Hesap Makinesi'ni İndir](https://img.shields.io/badge/📥%20İndir-Hesap%20Makinesi.exe-blue)](https://sametkarabulut.com/Uygulamalar/Calculator.exe)
 
 1. **Hesap Makinesi.exe** dosyasını indirin.
 
