@@ -1,30 +1,26 @@
-# 🧮 Hesap Makinesi Uygulaması
+# 🧮 Gelişmiş Hesap Makinesi Uygulaması
 
-Bu proje, basit dört işlemi yapabilen bir hesap makinesi uygulamasıdır. Kullanıcı dostu arayüzü ile temel matematiksel işlemleri kolayca gerçekleştirebilirsiniz.
+## 📝 Proje Açıklaması
+Visual Studio 2022 kullanılarak geliştirilmiş, kullanıcı dostu bir masaüstü hesap makinesi uygulaması.
 
-## 📥 İndirme
+## ✨ Özellikler
+- Temel matematiksel işlemler
+- Kullanıcı dostu arayüz
+- Hata yakalama mekanizması
+- Temiz ve düzenli kod yapısı
 
-[![📥 Hesap Makinesi'ni İndir](https://img.shields.io/badge/📥%20İndir-Hesap%20Makinesi.exe-blue)](https://sametkarabulut.com/Uygulamalar/Calculator.exe)
+## 🛠 Kullanılan Teknolojiler
+- C#
+- .NET Framework
+- Windows Forms
 
-1. **Hesap Makinesi.exe** dosyasını indirin.
+## 🚀 Kurulum
+1. Projeyi klonlayın
+2. Visual Studio'da açın
+3. Derleyin ve çalıştırın
 
-## 🚀 Özellikler
-- 📌 Toplama, çıkarma, çarpma ve bölme işlemleri
-- 🎨 Basit ve şık kullanıcı arayüzü
-- ⚡ Hızlı ve duyarlı çalışma
+## 📸 Ekran Görüntüleri
+[Ekran görüntüsü eklenecek]
 
-## 🔧 Kurulum
-Aşağıdaki adımları takip ederek projeyi çalıştırabilirsiniz:
-
-```sh
-git clone https://github.com/msametkarabulut/Calculator.git
-cd Calculator
-```
-### Visual Studio ile Çalıştırma
-1. Visual Studio'yu açın.
-2. `Calculator` klasörünü açın.
-3. Çözüm Gezgini'nde `Calculator.sln` dosyasını açın.
-4. `F5` tuşuna basarak projeyi çalıştırın.
-
-## 📸 Ekran Görüntüsü
-![Uygulama Görseli](https://sametkarabulut.com/wp-content/uploads/2025/02/calculator.png)
+## 🤝 Katkıda Bulunma
+Katkılarınızı bekliyoruz! Lütfen pull request açın.
